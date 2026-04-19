@@ -154,7 +154,8 @@ ida-pro-claude/
     cli_client.py          # wrapper around the `claude` CLI binary
     ida_context.py         # pulls function context (disasm + decomp) from IDA
     ida_tools.py           # @tool-decorated IDA operations exposed to Claude
-  claude.png               # optional menu icon
+  claude.png               # menu icon
+  chatclaude.png           # chat icon
 ```
 
 ## Troubleshooting
