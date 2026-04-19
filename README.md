@@ -3,7 +3,7 @@
 An IDA Pro plugin that embeds Claude as a dockable chat panel. Ask questions
 about the current function, run an agent loop that drives the database
 (list / read / rename / comment / jump), or fall back to a plain chat with
-the logged-in `claude` CLI.![Claude Code panel](claude.png)
+the logged-in `claude` CLI.
 
 ![Claude Code UI](Capture.png)
 
