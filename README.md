@@ -12,8 +12,7 @@ the logged-in `claude` CLI.
 - **Dockable chat panel** pinned to IDA's right dock area (next to
   Functions / Imports), Ctrl+Shift+K to open.
 - **Claude-style UI** — rounded dark input card with toolbar, coral send
-  button, and a sliders menu (⚙) that collapses all toggles behind one
-  click. Matches the 21st.dev Claude chat look.
+  button, and a sliders menu.
 - **Two auth modes**
   - *API key* — calls the Anthropic Messages API directly. Required for
     tool use.
